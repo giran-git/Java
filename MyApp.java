@@ -1,15 +1,10 @@
-public class MyApp {
+public class MyB {
 
-  // comment
-  /*
-    comment
-    comment
-    comment
-    comment
-  */
 
   public static void main(String[] args) {
-    System.out.println("Hello World");
+    
+    String msg = "Hello World Agein";
+    System.out.println(msg);
   }
 
 }
